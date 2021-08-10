@@ -156,34 +156,3 @@ while True:
     
     if yn=='n':
         break
-
-
-
-"""
-# path
-path = 'D:\\'
-
-# List files and directories
-# in 'C:/Users/Rajnish/Desktop/GeeksforGeeks'
-print("Before moving file:")
-print(os.listdir(path))
-
-"""
-# Source path
-source = 'D:\paint 2.png'
-
-# Destination path
-destination ='C:\\Users\\User\\Desktop\\picture\\paint'
-
-# Move the content of
-# source to destination
-dest = shutil.copy(source, destination)
-"""
-# List files and directories
-# in "C:/Users / Rajnish / Desktop / GeeksforGeeks"
-print("After moving file:")
-print(os.listdir(path))
-"""
-# Print path of newly
-# created file
-print("Destination path:", dest)
