@@ -7,5 +7,10 @@
   searching how many number of specific type of file in single or multile folder . it will surely reduce lot's of 
   time for you. 
   
+  Whats new in 2.o ?
+      file counting error is fixed
+      now search option is work fine
+      double verification for delete, copy and move operation 
+  
   
   if there is any bug conduct me at any time : k.prasannagh@gmail.com
