@@ -14,6 +14,8 @@
       now search option is work fine
       
       double verification for delete, copy and move operation 
+      
+      and some other bugs are fixed
   
   
   if there is any bug conduct me at any time : k.prasannagh@gmail.com
