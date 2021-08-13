@@ -7,7 +7,7 @@
   searching how many number of specific type of file in single or multile folder . it will surely reduce lot's of 
   time for you. 
   
-  Whats new in 2.o ?
+  # Whats new in 2.o ?
   
       file counting error is fixed
       
